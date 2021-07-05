@@ -32,18 +32,18 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @AbirHasan2005
 
-👥 **Support Group:** [Linux Repositories](https://t.me/linux_repo)
+👥 **update channel:** [channel](https://t.me/Netflix_orignal)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **support group:** [Original Series](https://t.me/Netflix_orignal_group)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @Murtazaaly01
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Donate Now](https://www.paypal.me/murtazaaly01) (PayPal)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
